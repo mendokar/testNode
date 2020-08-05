@@ -16,7 +16,7 @@
   "dependencies": {
     "atob": "^2.1.2",
     "blob": "0.0.5",
-    "express-fileupload": "^1.1.7-alpha.3",
+    "express-fileupload": "^1.1.9",
     "filereader": "^0.10.3",
     "firebase": "^7.2.1",
     "firebase-admin": "^8.6.0",
